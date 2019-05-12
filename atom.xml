@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://igolang.org/"/>
-  <updated>2019-05-12T09:14:37.000Z</updated>
+  <updated>2019-05-12T13:23:36.000Z</updated>
   <id>http://igolang.org/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>堡垒机jumpServer一键脚本</title>
+    <link href="http://igolang.org/2019/05/12/jumpserver/"/>
+    <id>http://igolang.org/2019/05/12/jumpserver/</id>
+    <published>2019-05-12T13:10:00.000Z</published>
+    <updated>2019-05-12T13:23:36.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;开源堡垒机一健脚本&quot;&gt;&lt;a href=&quot;#开源堡垒机一健脚本&quot; class=&quot;headerlink&quot; title=&quot;开源堡垒机一健脚本&quot;&gt;&lt;/a&gt;开源堡垒机一健脚本&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;echo -e &amp;quot;\033[31m 1. 防火墙
+        
+      
+    
+    </summary>
+    
+      <category term="Markdown" scheme="http://igolang.org/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://igolang.org/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://igolang.org/tags/Markdown/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
