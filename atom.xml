@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://igolang.org/"/>
-  <updated>2019-05-12T13:23:36.000Z</updated>
+  <updated>2019-05-12T13:30:17.000Z</updated>
   <id>http://igolang.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://igolang.org/2019/05/12/jumpserver/"/>
     <id>http://igolang.org/2019/05/12/jumpserver/</id>
     <published>2019-05-12T13:10:00.000Z</published>
-    <updated>2019-05-12T13:23:36.000Z</updated>
+    <updated>2019-05-12T13:30:17.000Z</updated>
     
     <summary type="html">
     
@@ -29,18 +29,22 @@
       
         
         
-          &lt;h3 id=&quot;开源堡垒机一健脚本&quot;&gt;&lt;a href=&quot;#开源堡垒机一健脚本&quot; class=&quot;headerlink&quot; title=&quot;开源堡垒机一健脚本&quot;&gt;&lt;/a&gt;开源堡垒机一健脚本&lt;/h3&gt;&lt;pre&gt;&lt;code&gt;echo -e &amp;quot;\033[31m 1. 防火墙
+          &lt;h3 id=&quot;开源堡垒机一健脚本&quot;&gt;&lt;a href=&quot;#开源堡垒机一健脚本&quot; class=&quot;headerlink&quot; title=&quot;开源堡垒机一健脚本&quot;&gt;&lt;/a&gt;开源堡垒机一健脚本&lt;/h3&gt;&lt;pre class=&quot; language-bash&quot;&gt;&lt;code
         
       
     
     </summary>
     
-      <category term="Markdown" scheme="http://igolang.org/categories/Markdown/"/>
+      <category term="Devops" scheme="http://igolang.org/categories/Devops/"/>
     
     
-      <category term="Typora" scheme="http://igolang.org/tags/Typora/"/>
+      <category term="jumpserver" scheme="http://igolang.org/tags/jumpserver/"/>
     
-      <category term="Markdown" scheme="http://igolang.org/tags/Markdown/"/>
+      <category term="devops" scheme="http://igolang.org/tags/devops/"/>
+    
+      <category term="开源" scheme="http://igolang.org/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="堡垒机" scheme="http://igolang.org/tags/%E5%A0%A1%E5%9E%92%E6%9C%BA/"/>
     
   </entry>
   
